@@ -1,0 +1,30 @@
+.load{
+    height: 400px;
+  display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    align-content: center;
+    margin-right: 30px;
+    font-style: italic;
+    justify-items: center;
+    flex-direction: column;
+}
+
+.pload{
+    font-size:x-large;
+}
+
+.glad{
+    margin: 0;
+    margin-left: 40px;
+   margin-bottom: -30px;
+}
+
+@media (max-width:700px ){
+
+.glad{
+    width: 10%;
+   
+}
+
+}

@@ -1,0 +1,31 @@
+
+.button{
+    background-color: #252525;
+    position: absolute;
+    margin-top: 700px;
+    color: #999999;
+    width: 290px;
+    height: 49px;
+    border:1px solid #999999;
+    border-radius:8px;
+    font-family: 'stoic';
+    font-size: 15px;
+    box-shadow: 4px 3px 0 #000000;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button:hover {
+    background: #1f1e1d;
+    -webkit-box-shadow: 0px 4px 6px -7px #000000, 4px 3px 7px 0px rgba(0,0,0,0); 
+    box-shadow: 0px 4px 6px -7px #000000, 4px 3px 7px 0px rgba(0,0,0,0);
+  }
+
+  .back{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+ 
