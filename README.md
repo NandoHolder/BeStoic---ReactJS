@@ -2,7 +2,7 @@ BESTOIC .
 
 EVERYDAY A STOIC QUOTE FOR YOU.
 
-
+#URL: http://www.fernandofavero.com.br/bestoic/
 
 
 This project was build with ReactJS, NodeJS, Express and Axios, all the data we get from our API >https://nodemon-index.herokuapp.com/
