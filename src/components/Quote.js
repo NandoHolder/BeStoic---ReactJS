@@ -12,7 +12,7 @@ import Loader from './Loader';
 
 
 //API URL
-const url = 'https://Api.fefavero.repl.co';
+const url = 'https://nodemon-index.herokuapp.com/';
 
 //Component Function
 const Quote = ( ) => {

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bestoic/static/css/main.0165f252.css",
+    "main.js": "/bestoic/static/js/main.cc6098d6.js",
+    "static/js/787.9a32d0e3.chunk.js": "/bestoic/static/js/787.9a32d0e3.chunk.js",
+    "static/media/background.png": "/bestoic/static/media/background.0b29b0ce7fca5987c635.png",
+    "static/media/stoic.ttf": "/bestoic/static/media/stoic.dfa02dcc2b2a78773e2f.ttf",
+    "index.html": "/bestoic/index.html",
+    "main.0165f252.css.map": "/bestoic/static/css/main.0165f252.css.map",
+    "main.cc6098d6.js.map": "/bestoic/static/js/main.cc6098d6.js.map",
+    "787.9a32d0e3.chunk.js.map": "/bestoic/static/js/787.9a32d0e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0165f252.css",
+    "static/js/main.cc6098d6.js"
+  ]
+}

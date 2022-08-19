@@ -64,13 +64,24 @@ p{
   
   .background{
    
-    margin-top: 90px;
+    margin-top: 20px;
    
     width:90% ;
     
     height: 450px;
    }
-   
+   h1{
+    font-family: 'stoic';
+    font-size: 60px;
+    text-shadow: black 3px 5px 2px;
+  }
+  
+  p{
+    margin-top: -50px;
+    margin-left: 60px;
+    font-size: 12px;
+    
+  }
   }
 
  @media (max-width:360px ) {
