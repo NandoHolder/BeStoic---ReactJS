@@ -3,7 +3,9 @@ BESTOIC .
 EVERYDAY A STOIC QUOTE FOR YOU.
 
 
-This project was build with React and Axios, all the data we get from our API >https://nodemon-index.herokuapp.com/
+
+
+This project was build with ReactJS, NodeJS, Express and Axios, all the data we get from our API >https://nodemon-index.herokuapp.com/
 
 
 ![StartPage](https://user-images.githubusercontent.com/101474322/184506732-75690e79-3599-4343-a65f-1d2f5d543188.jpg)
